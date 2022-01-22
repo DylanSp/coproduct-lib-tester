@@ -28,5 +28,8 @@
   "jest": {
     "preset": "ts-jest",
     "testEnvironment": "node"
+  },
+  "dependencies": {
+    "coproduct": "^1.0.0"
   }
 }
